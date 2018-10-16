@@ -1,1 +1,1 @@
-module mylog
+module github.com/kaweel/mylog
